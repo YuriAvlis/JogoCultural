@@ -2,7 +2,7 @@
 
 Um quiz interativo educativo e multicultural feito com **Python + Flask**. Teste seus conhecimentos sobre diferentes culturas, idiomas e sistemas educacionais ao redor do mundo.
 
----
+--------------
 
 ## 🚀 Como rodar o projeto localmente
 
